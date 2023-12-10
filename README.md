@@ -35,7 +35,7 @@ The Inventory Management System is a Java-based application with a Swing GUI, de
    git clone https://github.com/iYashMaurya/InventoryManagementSystem.git ```
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
