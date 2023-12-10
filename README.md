@@ -32,7 +32,7 @@ The Inventory Management System is a Java-based application with a Swing GUI, de
   ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iYashMaurya/InventoryManagementSystem.git ```
+   git clone https://github.com/iYashMaurya/InventoryManagementSystem.git 
 
 
 
